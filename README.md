@@ -46,8 +46,11 @@ usa %>% select(rft, year) %>%
 
 # Case 1.3 ----------------------------------------------------------------
 
-#Check in the following link pages 2 and 3: https://cran.r-project.org/web/packages/pwt8/pwt8.pdf to see a list of all variables in the original dataset. Can you think about another feature that could be helpful in explaining TFP series? Explain.
+#3- Check in the following link pages 2 and 3: https://cran.r-project.org/web/packages/pwt8/pwt8.pdf to see a list of all variables in the original dataset. Can you think about another feature that could be helpful in explaining TFP series? Explain.
 
+#R3: The variables  pop, emp, csh_c and xr would be helpful to explain the TFP series. 
+#The number of population and people engaged we would observe the growth of the poplation and the increasing/decreasing of the quantity of jobs. The difference between pop and emp would explain how the is the development of industry and the economic health of the country. The csh_c variable would indicate the behavior of the population, if there`s money is circling thought the market or if it`s stocked with the population due to the high prices or economical stability.
+Finaly the xr variable would indicate the country`s health and how is the Exterior commerce and outside investment in the country.
 
 
 
